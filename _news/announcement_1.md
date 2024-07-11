@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work is accepted by IROS 2024! :sparkles:
+<a href="https://sites.google.com/view/haoangli/nlb-pba">Our work</a> is accepted by IROS 2024! :sparkles:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My theis work got some promising shape generation results!
+title: My thesis work got some promising shape generation results!
 date: 2024-07-04 16:11:00-0400
 inline: false
 related_posts: false
