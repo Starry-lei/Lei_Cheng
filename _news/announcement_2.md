@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: My theis work got some promising shape generation results!
+date: 2024-07-04 16:11:00-0400
 inline: false
 related_posts: false
 ---
